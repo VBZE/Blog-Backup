@@ -1,4 +1,7 @@
-# git init 命令
+---
+title: git init
+tag: hide
+---
 
 **git init** 命令用于在目录中创建新的 Git 仓库。
 
